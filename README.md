@@ -1,19 +1,25 @@
 # 👋 Hi, I’m @PedroEduardoSS
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroEduardoSS&theme=gotham&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEduardoSS&theme=gotham&layout=compact&langs_count=8)](https://github.com/PedroEduardoSS/github-readme-stats)
+
 ### 👀 I’m interested in Machine Learning and Software Development
 - Machine Learning
 - Software Engineering
-- Backend Developer
+- Backend Developer (PHP and Flask)
 - Python
 - JavaScript
-- PHP
 - Java
 - Go
 - SQL
 - Games
+- 
 ### 🌱 I’m currently learning ...
 - Web Dev with PHP and MySQL
 - Databases
-PHP, MySQL and Software Engineering
+- PHP, MySQL and Software Engineering
+
 ### 📫 How to reach me ...
 - www.linkedin.com/in/PedroEduardoSS
 
