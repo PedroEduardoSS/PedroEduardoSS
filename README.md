@@ -14,7 +14,7 @@
 - Go
 - SQL
 - Games
-- 
+
 ### 🌱 I’m currently learning ...
 - Web Dev with PHP and MySQL
 - Databases
