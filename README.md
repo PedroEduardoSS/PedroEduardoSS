@@ -1,17 +1,26 @@
 # 👋 Hi, I’m @PedroEduardoSS
+### Who am I
+My name is Pedro Eduardo, brazilian and passionate about tech stuffs.
+I have experience in PHP development without frameworks, Python for some fun programs.
+I need more knowledge about tests, because I am really interessed about this topic.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEduardoSS&theme=gotham&layout=compact&langs_count=10)](https://github.com/PedroEduardoSS/github-readme-stats)
 
-### 👀 I’m interested in Machine Learning and Software Development
-- Machine Learning
+### 👀 I’m interested in Software Development (backend and tests)
 - Software Engineering
-- Backend Developer (PHP and Flask)
+- Backend Developer (PHP and Laravel)
 - Python
-- JavaScript
-- Java
-- Go
+- Machine Learning
+- FlutterFlow (low-code apps)
+- Supabase
 - SQL
+- JavaScript (node and deno)
+- Java
+- React Native
+- Go
+- C
 - Games
+- C++ (for Arduino programming)
 
 ### 🌱 I’m currently learning ...
 - Web Dev with PHP and MySQL
