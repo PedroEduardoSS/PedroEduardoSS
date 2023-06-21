@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @PedroEduardoSS
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroEduardoSS&theme=gotham&show_icons=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEduardoSS&theme=gotham&layout=compact&langs_count=10)](https://github.com/PedroEduardoSS/github-readme-stats)
 
 ### 👀 I’m interested in Machine Learning and Software Development
