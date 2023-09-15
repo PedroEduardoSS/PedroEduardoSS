@@ -14,18 +14,18 @@ I need more knowledge about tests, because I am really interessed about this top
 - FlutterFlow (low-code apps)
 - Supabase
 - SQL
-- JavaScript (node and deno)
+- JavaScript (Node, Deno and Bun)
 - Java
 - React Native
-- Go
+- Next.js
 - C
 - Games
 - C++ (for Arduino programming)
 
 ### 🌱 I’m currently learning ...
-- Web Dev with PHP and MySQL
-- Databases
-- PHP, MySQL and Software Engineering
+- Next.js
+- Sqlite, MySQL
+- Software Engineering, Requirements Engineering
 
 ### 📫 How to reach me ...
 - www.linkedin.com/in/PedroEduardoSS
