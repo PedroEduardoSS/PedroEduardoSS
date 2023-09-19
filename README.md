@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @PedroEduardoSS
 ### Who am I
 My name is Pedro Eduardo, brazilian and passionate about tech stuffs.
-I have experience in PHP development without frameworks, Python for some fun programs.
+I have experience in PHP development without frameworks, Python for some fun programs, JS (Node, Deno and trying Bun) and OO with Java
 I need more knowledge about tests, because I am really interessed about this topic.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEduardoSS&theme=gotham&layout=compact&langs_count=10)](https://github.com/PedroEduardoSS/github-readme-stats)
