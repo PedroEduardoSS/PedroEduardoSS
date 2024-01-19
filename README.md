@@ -8,7 +8,7 @@ I need more knowledge about tests, because I am really interessed about this top
 
 ### 👀 I’m interested in Software Development (backend and tests)
 - Software Engineering
-- Backend Developer (PHP and Laravel)
+- Backend Developer (PHP, Node jS)
 - Python
 - Machine Learning
 - FlutterFlow (low-code apps)
@@ -24,6 +24,8 @@ I need more knowledge about tests, because I am really interessed about this top
 
 ### 🌱 I’m currently learning ...
 - Next.js
+- Docker
+- Testing
 - Sqlite, MySQL
 - Software Engineering, Requirements Engineering
 
