@@ -4,6 +4,8 @@ My name is Pedro Eduardo, brazilian and software engineering student.
 I have experience in vanilla PHP, Python for some fun programs, JS (Node, Deno and trying Bun) and OO with Java
 I need more knowledge about tests, because I am really interessed about this topic.
 
+I have a degree in IT technician from CEMI, especially programming and software.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEduardoSS&theme=gotham&layout=compact&langs_count=10)](https://github.com/PedroEduardoSS/github-readme-stats)
 
 ### 👀 I’m interested in Software Development (backend and tests)
