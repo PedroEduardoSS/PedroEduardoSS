@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @PedroEduardoSS
 ### Who am I
 My name is Pedro Eduardo, brazilian and software engineering student.
-I have experience in vanilla PHP, Python for some fun programs, JS (Node, Deno and trying Bun) and OO with Java
+I have experience in PHP, Python, JS/TS (Node, Deno and trying Bun), Java.
 I need more knowledge about tests, because I am really interessed about this topic.
 
 I have a degree in IT technician from CEMI, especially programming and software.
@@ -19,13 +19,15 @@ I have a degree in IT technician from CEMI, especially programming and software.
 - JavaScript (Node, Deno and Bun)
 - Java
 - React Native
-- Next.js
+- Next.js (React)
+- Nuxt.js (Vue)
+- OOP
 - C
 - Games
 - C++ (for Arduino programming)
 
 ### 🌱 I’m currently learning ...
-- Next.js
+- Nuxt.js
 - Docker
 - Testing
 - Sqlite, MySQL
