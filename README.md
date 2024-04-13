@@ -6,7 +6,12 @@ I need more knowledge about tests, because I am really interessed about this top
 
 I have a degree in IT technician from CEMI, especially programming and software.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEduardoSS&theme=gotham&layout=compact&langs_count=10)](https://github.com/PedroEduardoSS/github-readme-stats)
+### My main skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nuxtjs,py,bun,git,docker,mysql,sqlite,supabase,nodejs,vscode,php,flutter" />
+  </a>
+</p>
 
 ### 👀 I’m interested in Software Development (backend and tests)
 - Software Engineering
