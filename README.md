@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @PedroEduardoSS
 ### Who am I
 My name is Pedro Eduardo, brazilian and software engineering student.
-I have experience in PHP, Python, JS/TS (Node, Deno and trying Bun), Java.
+I have experience in PHP, Python, JS/TS (Node and trying Bun), Java.
 I need more knowledge about tests, because I am really interessed about this topic.
 
 I have a degree in IT technician from CEMI, especially programming and software.
@@ -9,7 +9,8 @@ I have a degree in IT technician from CEMI, especially programming and software.
 ### My main skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nuxtjs,py,bun,git,docker,mysql,sqlite,supabase,nodejs,vscode,php,flutter" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,nuxtjs,java,mysql,sqlite,supabase,nextjs,php,flutter" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,bun,nodejs,vscode,vitest,jest,selenium,tailwind,arduino" />
   </a>
 </p>
 
