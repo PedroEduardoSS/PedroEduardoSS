@@ -9,8 +9,8 @@ I have a degree in IT technician from CEMI, especially programming and software.
 ### My main skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,nuxtjs,java,mysql,sqlite,supabase,nextjs,php,flutter" />
-    <img src="https://skillicons.dev/icons?i=git,github,docker,bun,nodejs,vscode,vitest,jest,selenium,tailwind,arduino" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,nuxtjs,java,postgres,mysql,sqlite,supabase,nextjs,php" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,bun,nodejs,vscode,vitest,flutter,selenium,tailwind,arduino" />
   </a>
 </p>
 
@@ -18,6 +18,7 @@ I have a degree in IT technician from CEMI, especially programming and software.
 - Software Engineering
 - Backend Developer (PHP, Node jS)
 - Python
+- Nuxt.js (Vue)
 - Machine Learning
 - FlutterFlow (low-code apps)
 - Supabase
@@ -26,7 +27,6 @@ I have a degree in IT technician from CEMI, especially programming and software.
 - Java
 - React Native
 - Next.js (React)
-- Nuxt.js (Vue)
 - OOP
 - C
 - Games
@@ -36,7 +36,7 @@ I have a degree in IT technician from CEMI, especially programming and software.
 - Nuxt.js
 - Docker
 - Testing
-- Sqlite, MySQL
+- Sqlite, PostgreSQL
 - Software Engineering, Requirements Engineering
 
 ### 📫 How to reach me ...
