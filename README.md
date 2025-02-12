@@ -18,7 +18,7 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 
 ### 👀 I’m interested in Software Development (backend and tests)
 - Software Engineering
-- Backend Developer (PHP, Node jS)
+- Backend Developer (PHP, Flask, FastAPI)
 - Python
 - Nuxt.js (Vue)
 - Machine Learning
@@ -30,9 +30,8 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 - React Native
 - Next.js (React)
 - OOP
-- C
 - Games
-- C++ (for Arduino programming)
+- C/C++ (for Arduino programming)
 
 ### 🌱 I’m currently learning ...
 - Nuxt.js
