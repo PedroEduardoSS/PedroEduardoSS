@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @PedroEduardoSS
 ### Who am I
 My name is Pedro Eduardo, brazilian and cybersecurity student.
-I have experience in PHP, Python, JS/TS (Node and trying Bun), Java.
+I have experience in PHP, Python, JS/TS (Node, Deno and trying Bun), Java.
 
 I have a degree in IT technician from CEMI, especially programming and software.
 
