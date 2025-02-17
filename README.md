@@ -2,7 +2,6 @@
 ### Who am I
 My name is Pedro Eduardo, brazilian and cybersecurity student.
 I have experience in PHP, Python, JS/TS (Node and trying Bun), Java.
-I need more knowledge about tests, because I am really interessed about this topic.
 
 I have a degree in IT technician from CEMI, especially programming and software.
 
@@ -18,6 +17,7 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 
 ### 👀 I’m interested in Software Development (backend and tests)
 - Software Engineering
+- Software Testing
 - Backend Developer (PHP, Flask, FastAPI)
 - Python
 - Nuxt.js (Vue)
