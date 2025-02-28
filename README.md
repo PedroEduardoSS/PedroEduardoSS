@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @PedroEduardoSS
 ### Who am I
 My name is Pedro Eduardo, brazilian and cybersecurity student.
-I have experience in PHP, Python, JS/TS (Node, Deno and trying Bun), Java.
+I have experience in Python, PHP, JS/TS (Node, Deno and trying Bun), Java.
 
 I have a degree in IT technician from CEMI, especially programming and software.
 
@@ -19,7 +19,7 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 - Software Engineering
 - Software Testing
 - Backend Developer (PHP, Flask, FastAPI)
-- Python
+- Python (Data Analisys, webscraping, testing, automation)
 - Nuxt.js (Vue)
 - Machine Learning
 - FlutterFlow (low-code apps)
@@ -27,15 +27,14 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 - SQL
 - JavaScript (Node, Deno and Bun)
 - Java
-- React Native
-- Next.js (React)
 - OOP
-- Games
 - C/C++ (for Arduino programming)
 
 ### 🌱 I’m currently learning ...
+- CyberSecurity
 - Nuxt.js
-- Docker
+- Laravel
+- Podman
 - Testing
 - Sqlite, PostgreSQL
 - Software Engineering, Requirements Engineering
