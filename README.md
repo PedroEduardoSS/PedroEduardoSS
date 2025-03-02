@@ -15,7 +15,7 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
   </a>
 </p>
 
-### 👀 I’m interested in Software Development (backend and tests)
+### 👀 I’m interested in CyberSecurity and Software Development (backend and tests)
 - Software Engineering
 - Software Testing
 - Backend Developer (PHP, Flask, FastAPI)
