@@ -11,7 +11,7 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,js,nuxtjs,java,postgres,mysql,sqlite,supabase,nextjs,flask,fastapi" />
-    <img src="https://skillicons.dev/icons?i=github,git,docker,deno,bun,nodejs,vscode,selenium,vitest,vue,php,arduino" />
+    <img src="https://skillicons.dev/icons?i=github,git,docker,deno,bun,nodejs,vscode,selenium,go,vue,php,arduino" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 - Software Engineering
 - Software Testing
 - Backend Developer (PHP, Flask, FastAPI)
-- Python (Data Analisys, webscraping, testing, automation)
+- Python (Data Analysis, webscraping, testing, automation)
 - Nuxt.js (Vue)
 - Machine Learning
 - FlutterFlow (low-code apps)
