@@ -10,15 +10,15 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 ### My main skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,nuxtjs,php,postgres,mysql,sqlite,supabase,laravel,flask,fastapi" />
-    <img src="https://skillicons.dev/icons?i=github,git,docker,deno,bun,nodejs,vscode,selenium,go,vue,java,arduino" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,nuxtjs,php,postgres,mysql,sqlite,supabase,laravel,selenium,fastapi" />
+    <img src="https://skillicons.dev/icons?i=github,git,docker,deno,bun,nodejs,vscode,dotnet,cs,vue,java,arduino" />
   </a>
 </p>
 
 ### 👀 I’m interested in CyberSecurity and Software Development (backend and tests)
 - Software Engineering
 - Software Testing
-- Backend Developer (PHP, Flask, FastAPI)
+- Backend Developer (PHP, Laravel, FastAPI, c#, .NET)
 - Python (Data Analysis, webscraping, testing, automation)
 - Nuxt.js (Vue)
 - Machine Learning
@@ -32,7 +32,7 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 
 ### 🌱 I’m currently learning ...
 - CyberSecurity
-- Nuxt.js
+- C#/.NET
 - Laravel
 - Podman
 - Testing
