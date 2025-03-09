@@ -10,34 +10,20 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 ### My main skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,nuxtjs,php,postgres,mysql,sqlite,supabase,laravel,selenium,fastapi" />
-    <img src="https://skillicons.dev/icons?i=github,git,docker,deno,bun,nodejs,vscode,dotnet,cs,vue,java,arduino" />
+    <img src="https://skillicons.dev/icons?i=py,ts,js,nuxtjs,php,postgres,mysql,sqlite,supabase" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=laravel,selenium,fastapi,github,git,deno,bun,nodejs,postman" />
+  </a>
+</p>
+
+### My secondary skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,docker,githubactions,kali,linux,dotnet,cs,vue,java,flask,arduino" />
   </a>
 </p>
 
 ### 👀 I’m interested in CyberSecurity and Software Development (backend and tests)
-- Software Engineering
-- Software Testing
-- Backend Developer (PHP, Laravel, FastAPI, c#, .NET)
-- Python (Data Analysis, webscraping, testing, automation)
-- Nuxt.js (Vue)
-- Machine Learning
-- FlutterFlow (low-code apps)
-- Supabase
-- SQL
-- JavaScript (Node, Deno and Bun)
-- Java
-- OOP
-- C/C++ (for Arduino programming)
-
-### 🌱 I’m currently learning ...
-- CyberSecurity
-- C#/.NET
-- Laravel
-- Podman
-- Testing
-- Sqlite, PostgreSQL
-- Software Engineering, Requirements Engineering
 
 ### 📫 How to reach me ...
 - www.linkedin.com/in/PedroEduardoSS
