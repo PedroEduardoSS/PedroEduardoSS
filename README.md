@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @PedroEduardoSS
 ### Who am I
 My name is Pedro Eduardo, brazilian and cybersecurity student.
-I have experience in Python, PHP, JS/TS (Node, Deno and trying Bun), Java.
+I have experience in Python, PHP, JS/TS (Node, Deno and Bun) and another languages.
 
 I have a degree in IT technician from CEMI, especially programming and software.
 
@@ -12,14 +12,14 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,js,nuxtjs,php,postgres,mysql,sqlite,supabase" />
     <br>
-    <img src="https://skillicons.dev/icons?i=laravel,cypress,fastapi,github,git,deno,bun,nodejs,postman" />
+    <img src="https://skillicons.dev/icons?i=laravel,cypress,regex,github,git,deno,bun,nodejs,postman" />
   </a>
 </p>
 
 ### My secondary skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,docker,githubactions,selenium,linux,dotnet,cs,vue,java,flask,arduino" />
+    <img src="https://skillicons.dev/icons?i=bash,docker,githubactions,selenium,alpinejs,linux,nextjs,vue,java,fastapi,sklearn,arduino" />
   </a>
 </p>
 
