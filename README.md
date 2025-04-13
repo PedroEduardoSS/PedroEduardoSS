@@ -12,7 +12,7 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,ts,js,php,laravel,nuxtjs,postgres,mysql,sqlite" />
     <br>
-    <img src="https://skillicons.dev/icons?i=supabase,cypress,regex,github,git,bun,deno,nodejs,postman" />
+    <img src="https://skillicons.dev/icons?i=supabase,cypress,regex,github,git,django,bun,nodejs,postman" />
   </a>
 </p>
 
