@@ -10,7 +10,7 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 ### My main skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,php,laravel,fastapi,django,regex" />
+    <img src="https://skillicons.dev/icons?i=py,php,ts,js,laravel,fastapi,django,regex" />
     <br>
     <img src="https://skillicons.dev/icons?i=github,git,bun,nodejs,sqlite,supabase,linux,bash" />
   </a>
