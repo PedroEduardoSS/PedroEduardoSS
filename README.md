@@ -10,16 +10,16 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 ### My main skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,ts,js,laravel,fastapi,django,regex" />
+    <img src="https://skillicons.dev/icons?i=py,php,ts,js,laravel,fastapi,django" />
     <br>
-    <img src="https://skillicons.dev/icons?i=github,git,bun,nodejs,sqlite,supabase,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=github,git,sqlite,regex,supabase,linux,bash" />
   </a>
 </p>
 
 ### My secondary skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,githubactions,selenium,alpinejs,nuxtjs,vue,java,postgres,mysql,sklearn,postman" />
+    <img src="https://skillicons.dev/icons?i=docker,githubactions,selenium,alpinejs,nuxtjs,vue,bun,nodejs,java,postgres,mysql,sklearn,postman" />
   </a>
 </p>
 
