@@ -12,14 +12,14 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,php,ts,js,laravel,fastapi,django" />
     <br>
-    <img src="https://skillicons.dev/icons?i=github,git,sqlite,regex,supabase,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=github,git,sqlite,regex,flask,linux,bash" />
   </a>
 </p>
 
 ### My secondary skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,githubactions,selenium,alpinejs,nuxtjs,vue,bun,nodejs,java,postgres,mysql,sklearn,flask" />
+    <img src="https://skillicons.dev/icons?i=docker,githubactions,selenium,alpinejs,nuxtjs,vue,bun,nodejs,java,postgres,mysql,sklearn,supabase" />
   </a>
 </p>
 
