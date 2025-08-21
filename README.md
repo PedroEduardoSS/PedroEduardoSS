@@ -1,9 +1,24 @@
 # 👋 Hi, I’m @PedroEduardoSS
 ### Who am I
-My name is Pedro Eduardo, brazilian and cybersecurity student.
-I have experience in Python, PHP, JS/TS (Node, Deno and Bun) and another languages.
+My name is Pedro Eduardo.
 
-I have a degree in IT technician from CEMI, especially programming and software.
+I've been studying and improving my programming skills since 2018 with technologies such as Python, JS/TS, PHP, SQL, and GIT.
+
+The main web frameworks I'm familiar with are:
+ - Django
+ - Laravel
+ - Flask
+ - and FastAPI.
+
+I'm very interested in technology, focusing on cybersecurity, software testing, data analysis, machine learning, and back-end development.
+
+I'm currently developing new independent projects and seeking opportunities.
+
+I can offer the following services:
+1. Testing your software (QA, automated tests)
+2. Developing data-driven solutions (data analysis, ETL with Airflow)
+3. Developing automation scripts (web scraping, testing bots, task automation, GitHub actions)
+4. Web development or APIs (depending on the business)
 
 My portfolio: https://pedroeduardoss.github.io/portfolio/
 
