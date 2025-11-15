@@ -8,7 +8,7 @@ The main web frameworks I'm familiar with are:
  - Django
  - Laravel
  - Flask
- - and FastAPI.
+ - FastAPI.
 
 I'm very interested in technology, focusing on cybersecurity, software testing, data analysis, machine learning, and back-end development.
 
