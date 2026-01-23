@@ -10,7 +10,7 @@ I'm currently developing new independent projects and seeking opportunities in C
 
 ### Services
 I can offer the following services:
-1. Testing your software (QA, automated tests)
+1. Testing your software (QA, automated tests with Selenium and Playwright)
 2. Developing data-driven solutions (data analysis, ETL)
 3. Developing automation scripts (web scraping, testing bots, task automation, GitHub actions)
 4. Web development or APIs (depending on the business)
