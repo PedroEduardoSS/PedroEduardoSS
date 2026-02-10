@@ -29,7 +29,7 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 ### My secondary skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,fastapi,alpinejs,nuxtjs,vue,bun,nodejs,java,postgres,mysql,sklearn,supabase" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,fastapi,nuxtjs,vue,bun,nodejs,java,postgres,mysql,supabase" />
   </a>
 </p>
 
