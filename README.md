@@ -20,9 +20,9 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
 ### My main skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,docker,githubactions,selenium,django" />
+    <img src="https://skillicons.dev/icons?i=py,linux,bash,docker,githubactions,selenium,django" />
     <br>
-    <img src="https://skillicons.dev/icons?i=github,git,sqlite,regex,flask,linux,bash" />
+    <img src="https://skillicons.dev/icons?i=github,git,sqlite,regex,flask,ts,js" />
   </a>
 </p>
 
