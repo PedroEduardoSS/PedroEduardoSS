@@ -33,6 +33,34 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
   </a>
 </p>
 
+### Professional Experience
+
+#### Data advisor (volunteer) | 2025 - At moment
+**Galt Vestibulares**
+- I created internal evaluation forms with the aim of improving the quality of
+members' professionalism.
+ Refactored and updated Python automation scripts for internal processes.
+- I analyzed and managed database (postgreSQL).
+
+#### Python Development | 2024
+**R5 Inteligência Digital**
+- I developed automation and data extraction scripts in python using BS4 and Regex,
+together with Airflow and ETL (Extract, Transform, Load) methodology..
+- I analyzed and processed data in PostgreSQL.
+- I developed APIs with FastAPI.
+- I worked with Artificial Intelligence integration in scripts
+- Developed manual tests.
+
+#### Academic projects | 2020 - 2025
+**CEMI e UnB**
+
+- I helped develop software with various frameworks and languages ​such as Next.js,
+Django, Java, PHP and Python, in addition to contributing to documentation,
+automated software testing, CI/CD and DevOps.
+- I coordinated and helped develop a scientific initiation project using Python and
+machine learning, including data analysis methods..
+- I participated in projects that used RUP, ScrumXP and Kanban.
+
 ### 👀 I’m interested in CyberSecurity and Software Development (backend and tests)
 
 ### 📫 How to reach me ...
