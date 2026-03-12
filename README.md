@@ -33,7 +33,7 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
   </a>
 </p>
 
-### Professional Experience
+### :bookmark_tabs: Professional Experience
 
 #### Data advisor (volunteer) | 2025 - At moment
 **Galt Vestibulares**
@@ -45,7 +45,7 @@ members' professionalism.
 #### Python Development | 2024
 **R5 Inteligência Digital**
 - I developed automation and data extraction scripts in python using BS4 and Regex,
-together with Airflow and ETL (Extract, Transform, Load) methodology..
+together with Airflow and ETL (Extract, Transform, Load) methodology.
 - I analyzed and processed data in PostgreSQL.
 - I developed APIs with FastAPI.
 - I worked with Artificial Intelligence integration in scripts
@@ -61,7 +61,7 @@ automated software testing, CI/CD and DevOps.
 machine learning, including data analysis methods..
 - I participated in projects that used RUP, ScrumXP and Kanban.
 
-### 👀 I’m interested in CyberSecurity and Software Development (backend and tests)
+### 👀 I’m interested in CyberSecurity, Data Analysis Projects and Software Development (backend and tests)
 
 ### 📫 How to reach me ...
 - www.linkedin.com/in/PedroEduardoSS
