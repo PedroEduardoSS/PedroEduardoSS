@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @PedroEduardoSS
 ### Who am I
-My name is Pedro Eduardo.
+My name is Pedro Eduardo Santos Sousa.
 
 I've been studying and improving my programming skills since 2018 with technologies such as Python, JS/TS, PHP, SQL, and GIT.
 
