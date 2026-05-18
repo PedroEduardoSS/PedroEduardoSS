@@ -15,7 +15,7 @@ I can offer the following services:
 3. Developing automation scripts (web scraping, testing bots, task automation, GitHub actions)
 4. Web development or APIs (depending on the business)
 
-My portfolio: https://pedroeduardoss.github.io/portfolio/
+My CV and portfolio: https://pedroeduardoss.github.io/portfolio/
 
 ### My main skills
 <p align="center">
@@ -32,34 +32,6 @@ My portfolio: https://pedroeduardoss.github.io/portfolio/
     <img src="https://skillicons.dev/icons?i=php,laravel,fastapi,nuxtjs,vue,bun,nodejs,java,postgres,mysql,supabase" />
   </a>
 </p>
-
-### :bookmark_tabs: Professional Experience
-
-#### Data advisor (volunteer) | 2025 - At moment
-**Galt Vestibulares**
-- I created internal evaluation forms with the aim of improving the quality of
-members' professionalism.
- Refactored and updated Python automation scripts for internal processes.
-- I analyzed and managed database (postgreSQL).
-
-#### Python Development | 2024
-**R5 Inteligência Digital**
-- I developed automation and data extraction scripts in python using BS4 and Regex,
-together with Airflow and ETL (Extract, Transform, Load) methodology.
-- I analyzed and processed data in PostgreSQL.
-- I developed APIs with FastAPI.
-- I worked with Artificial Intelligence integration in scripts
-- Developed manual tests.
-
-#### Academic projects | 2020 - 2025
-**CEMI e UnB**
-
-- I helped develop software with various frameworks and languages ​such as Next.js,
-Django, Java, PHP and Python, in addition to contributing to documentation,
-automated software testing, CI/CD and DevOps.
-- I coordinated and helped develop a scientific initiation project using Python and
-machine learning, including data analysis methods..
-- I participated in projects that used RUP, ScrumXP and Kanban.
 
 ### 👀 I’m interested in CyberSecurity, Data Analysis Projects and Software Development (backend and tests)
 
